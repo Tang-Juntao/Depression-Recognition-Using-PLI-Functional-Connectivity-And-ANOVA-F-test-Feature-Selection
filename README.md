@@ -1,0 +1,2 @@
+# Depression-Recognition-Using-PLI-Functional-Connectivity-And-ANOVA-F-test-Feature-Selection
+Depression recognition via resting‑state EEG using Phase Lag Index (PLI) functional connectivity and ANOVA F‑test feature selection. Baseline SVM and MLP classifiers are compared, and an enhanced SVM with grid search optimisation achieves 85.85% accuracy, 82.50% sensitivity, and 93.94% AUC on the MODMA dataset.
